@@ -4,6 +4,4 @@ Git has a mutable index called stage.
 你是一只猪吗
 Ni才是猪
 
-
-
-我这个是在新分支上面添加的 现在要改一下
+Creating a new branch is quick AND simple.
